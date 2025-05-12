@@ -1,73 +1,62 @@
-# Welcome to your Lovable project
+# 🚀 DevQuest
 
-## Project info
+**Your daily companion for thoughtful coding reflection.**  
+From LeetCode-style challenges to technical and interview questions — all in one place.
 
-**URL**: https://lovable.dev/projects/c8b80cd7-a5a6-43e0-b989-444b45eba1b4
+---
 
-## How can I edit this code?
+## ✨ What is DevQuest?
 
-There are several ways of editing your application.
+I built DevQuest because I found myself bouncing between coding books, LeetCode-style platforms, and interview prep resources — but never really *thinking* through what I was learning.
 
-**Use Lovable**
+DevQuest combines it all:  
+- 🧩 LeetCode-style technical questions  
+- 🤔 Thoughtful DSA challenges  
+- 💼 Interview-like reflections  
+- 🎯 And everything in between  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c8b80cd7-a5a6-43e0-b989-444b45eba1b4) and start prompting.
+But here's the twist — it doesn’t provide answers.
+Instead, it nudges you to explore. To start your own *quest*. Whether it's solving, researching, or simply thinking deeper — DevQuest helps developers embrace curiosity instead of chasing shortcuts.
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+## 🛠 Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **React + TypeScript**
+- **Tailwind CSS**
+- **LocalStorage** for lightweight persistence
+- **Dark/Light Theme Toggle**
+- **Minimalist UX** with growth-focused design
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📌 Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🗓️ **Daily developer prompt** (one per day)  
+- ✍️ **Built-in response editor**  
+- 🔁 **Edit your previous answers**  
+- 📊 **Streak counter** to keep you motivated  
+- ⚡ **Smooth, responsive, mobile-first design**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/yourusername/devquest.git
+cd devquest
+npm install
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Final Thought
 
-**Use GitHub Codespaces**
+**DevQuest isn’t where you find answers —  
+it’s where your questions begin.**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Start writing. Start reflecting. Start your quest.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c8b80cd7-a5a6-43e0-b989-444b45eba1b4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+*Built by Abenezer Teshome*
