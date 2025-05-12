@@ -5,7 +5,7 @@ From LeetCode-style challenges to technical and interview questions — all in o
 
 ---
 
-## ✨ What is DevQuest?
+## What is DevQuest?
 
 I built DevQuest because I found myself bouncing between coding books, LeetCode-style platforms, and interview prep resources — but never really *thinking* through what I was learning.
 
@@ -19,7 +19,7 @@ But here's the twist — it doesn’t provide answers.
 Instead, it nudges you to explore. To start your own *quest*. Whether it's solving, researching, or simply thinking deeper — DevQuest helps developers embrace curiosity instead of chasing shortcuts.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **React + TypeScript**
 - **Tailwind CSS**
@@ -29,7 +29,7 @@ Instead, it nudges you to explore. To start your own *quest*. Whether it's solvi
 
 ---
 
-## 📌 Features
+## Features
 
 - **Daily developer prompt** (one per day)  
 - **Built-in response editor**  
@@ -47,12 +47,12 @@ Start writing. Start reflecting. Start your quest.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
   ```bash
-  git clone https://github.com/abeniben/DevQuest.git
-  cd devquest
-  npm install
-  npm run dev
+     git clone https://github.com/abeniben/DevQuest.git
+     cd devquest
+     npm install
+     npm run dev
 
 ---
 
