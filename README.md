@@ -44,17 +44,17 @@ Instead, it nudges you to explore. To start your own *quest*. Whether it's solvi
 it’s where your questions begin.**    
 
 Start writing. Start reflecting. Start your quest.  
-
 ---
 
 ## Getting Started
-  ```bash
-     git clone https://github.com/abeniben/DevQuest.git
-     cd devquest
-     npm install
-     npm run dev
-
----
+    ```bash
+       git clone https://github.com/abeniben/DevQuest.git
+       cd devquest
+       npm install
+       npm run dev
 
 
 *Built by Abenezer Teshome*
+---
+
+
